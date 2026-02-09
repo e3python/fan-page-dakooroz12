@@ -1,12 +1,7 @@
 body{
     background-color: black;
-    color: white;
     font-family: georgia, consolas, monospace, sans-serif;
     border-color: #378661;
-}
-img{
-    border: 1px solid #378661;
-    border-radius: 5px;
 }
 .text{
     font-size:small;
@@ -49,11 +44,4 @@ h1{
     display: block;
    margin-left:auto;
    margin-right:auto;
-}
-the-lands-between{
-    margin-right:auto;
-    margin-left:auto;
-}
-the-land-of-shadows{
-    margin-left:auto;
 }
